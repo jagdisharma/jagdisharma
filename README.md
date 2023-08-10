@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/jagdisharma29/" title="LinkedIn Profile"><img width="22" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/jagdisharma29/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/jagdisharma29/" title="Instagram Profile"><img width="22" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
