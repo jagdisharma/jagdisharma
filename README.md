@@ -14,9 +14,7 @@
   Hi, I'm Jagdish Sharma, Computer Engineer & Software Developer from India
   <br>
   <br>
-  🔬 I'm currently studying for a bachelor degree in Uttarakhand Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from GMSSSchool-33 Chandigarh India
+  🔬 I have done bachelor degree from Uttarakhand Technical University in Computer Science and Engineering
   <br>
   💻 I love writing code and learn anythings about it
   <br>
