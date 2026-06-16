@@ -1,4 +1,3 @@
-```html
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Jagdish+Sharma;Full+Stack+Developer;Building+AI+Powered+Products&center=true&size=30">
@@ -87,4 +86,4 @@
 <p align="center">
   <b>⭐ Building products, sharing knowledge, and exploring AI every day.</b>
 </p>
-```
+
