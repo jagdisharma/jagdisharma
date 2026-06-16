@@ -1,85 +1,90 @@
-
+```html
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jagdish+Sharma;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Jagdish+Sharma;Full+Stack+Developer;Building+AI+Powered+Products&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/jagdisharma29/" title="LinkedIn Profile"><img width="22" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/jagdisharma29/" title="Instagram Profile"><img width="22" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png"> Instagram</a></code>
-</h5>
-<br>
 <p align="center">
-  Hi, I'm Jagdish Sharma, Computer Engineer & Software Developer from India
-  <br>
-  <br>
-  🔬 I have done bachelor degree from Uttarakhand Technical University in Computer Science and Engineering
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning AI and ML
-  <br>
-  📫 How to reach me: <a href="mailto: jagdishcsharma29@gmail.com">jagdishcsharma29@gmail.com</a>
+  <a href="https://www.linkedin.com/in/jagdisharma29/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jagdisharma29/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:jagdishcsharma29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  Hi 👋, I'm <strong>Jagdish Sharma</strong><br>
+  Full Stack Developer from India 🇮🇳<br><br>
+
+  🔭 Currently building AI-powered SaaS applications<br>
+  💻 Passionate about Web Development, AI, and Automation<br>
+  🚀 Specialized in Next.js, React, Node.js, NestJS & PostgreSQL<br>
+  🌱 Learning AI Agents, LLMs & Advanced System Design<br>
+  📫 Reach me at: <strong>jagdishcsharma29@gmail.com</strong>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+
+<h2 align="center">⚡ Tech Stack ⚡</h2>
+
 <p align="center">
-  <code><img title="C" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  
-  <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-  
-  <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  
-  <code><img title="Django" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"></code>
-  
-  <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  
-  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  
-  <code><img title="CSS3" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  
-  <code><img title="SASS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
-  
-  <code><img title="React" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  
-  <code><img title="Redux" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
-  
-  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  
-  <code><img title="VS Code" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-  
-  <code><img title="jQuery" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code>
-  
-  <code><img title="JSON" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"></code>
-  
-  <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-  
-  <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  
-  <code><img title="npm" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
+  <img title="Next.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
+  <img title="React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
+  <img title="TypeScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
+  <img title="JavaScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
+  <img title="Node.js" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;&nbsp;
+  <img title="NestJS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">&nbsp;&nbsp;
+  <img title="PostgreSQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;
+  <img title="Prisma" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">&nbsp;&nbsp;
+  <img title="Supabase" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">&nbsp;&nbsp;
+  <img title="TailwindCSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;&nbsp;
+  <img title="Python" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img title="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;
+  <img title="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;&nbsp;
+  <img title="GitHub" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">&nbsp;&nbsp;
+  <img title="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">&nbsp;&nbsp;
+  <img title="AWS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;&nbsp;
+  <img title="VS Code" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </p>
+
 <hr>
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">📊 GitHub Stats</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagdishcsharma29&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagdishcsharma29&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagdishcsharma29&theme=tokyonight&hide_border=true" />
+</p>
 
+<hr>
 
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+<h2 align="center">🚀 Featured Projects</h2>
 
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+<p align="center">
+  🔹 Jarvis RCSA – AI Risk Management Platform<br>
+  🔹 KitCraft – Premium Next.js Starter Kits<br>
+  🔹 MomentoCard – Digital Memory Card Platform<br>
+  🔹 Creative Muscle – AI Creative Generation System
+</p>
 
--->
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jagdishcsharma29&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <b>⭐ Building products, sharing knowledge, and exploring AI every day.</b>
+</p>
+```
